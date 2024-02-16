@@ -8,6 +8,8 @@ package cola;
  *
  * @author maria_a.vasquez
  */
-public class Base {
+public abstract class Base { //clase abstracta que tiene un metodo abstracto
+    
+    public abstract Base copy();// metodo copy:
     
 }
